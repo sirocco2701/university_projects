@@ -1,6 +1,3 @@
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/whitelight976)
-
-
 Project Schematic 
 ----------------------------
 
