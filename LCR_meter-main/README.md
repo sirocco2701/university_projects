@@ -3,28 +3,6 @@ Project Schematic
 
 ![ScreenShot project sch](https://github.com/gavinlyonsrepo/LCR_meter/blob/main/documentation/images/LCR_meter.png)
 
-Control
--------------------------------
-
-Push Buttons
-1. Mode Button to change mode.
-2. Test button to start test for selected mode, when in ready mode this button brings up help screen.
-
-Tests Modes:
-
-1. Inductance test.
-2. 0 to 2k range resistor test.
-3. 2K to 20k range resistor test.
-4. 20k to 200k range resistor test.
-5. 200k to 1M range resistor test.
-6. Capacitor Test 1 Range  1 uF to 4F.
-7. Capacitor Test 2 Range 18 pF to 470 uF.
-8. Capacitor Test 3 Range 4.7 nF to 180 uF.
-
-The meter outputs to an LCD and serial monitor.
-(The LCD is optional as data is sent via serial monitor to PC)
-Every point in code that requires User calibration on Initial build is marked "USER CALIBRATE"
-
 Example Output
 -----------------------------
 
