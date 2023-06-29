@@ -3,11 +3,6 @@ Project Schematic
 
 ![ScreenShot project sch](https://github.com/gavinlyonsrepo/LCR_meter/blob/main/documentation/images/LCR_meter.png)
 
-Pin and test socket connection data are available in documentation folder in file PinoutConnectionsTables.md
-
-1. Pinout Connections Tables
-2. Tesk Socket layout
-
 Control
 -------------------------------
 
