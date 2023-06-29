@@ -1,21 +1,5 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/whitelight976)
 
-Overview
---------------------
-* Name : LCR_meter
-* Title : Inductance, Capacitance and Resistance meter, Arduino NANO based.
-* Description : 
-	* Inductance, Capacitance and Resistance meter.
-	* Arduino NANO version 3.0 based. 
-	* 4 resistor test ranges,  Resistor range is from 0 ohms to 2 Mohms. Auto-range.
-	* Inductance test.
-	* Capacitance three tests. 
-	* Push button input.
-	* Outputs data to serial monitor and a HD44780 LCD 16x02 I2C.
-
-* Platform: Arduino NANO version 3.0
-* Author: harir naghshbandi
-
 
 Project Schematic 
 ----------------------------
