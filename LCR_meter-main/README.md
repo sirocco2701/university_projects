@@ -14,27 +14,7 @@ Overview
 	* Outputs data to serial monitor and a HD44780 LCD 16x02 I2C.
 
 * Platform: Arduino NANO version 3.0
-* Author: Gavin Lyons
-
-Table of contents
----------------------------
-
-  * [Overview](#overview)
-  * [Table of contents](#table-of-contents)
-  * [Parts List](#parts-list)
-  * [Project Schematic](#project-schematic)
-  * [Control](#control)
-  * [Example Output](#example-output)
-  * [C Meter](#c-meter)
-  * [R Meter](#r-meter)
-  * [L Meter](#l-meter)
-  * [Libraries](#libraries)
-
-
-Parts List
-------------------------------
-
-The BOM is available in documentation folder in file LCR_meter_bom.txt
+* Author: harir naghshbandi
 
 
 Project Schematic 
@@ -71,7 +51,6 @@ Every point in code that requires User calibration on Initial build is marked "U
 
 Example Output
 -----------------------------
-
 
 ![ScreenShot cap serail](https://github.com/gavinlyonsrepo/LCR_meter/blob/main/documentation/images/LCRmeterserial.jpg)
 
