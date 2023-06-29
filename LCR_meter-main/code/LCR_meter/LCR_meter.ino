@@ -4,7 +4,7 @@
   Description : An LCR meter is a type of electronic test equipment used to measure
   the inductance (L), capacitance (C), and resistance (R) of an electronic component.
   Full details at URL.
-  Author: Gavin Lyons
+  Author: harir naghshbandi
   Platform: Arduino NANO version 3.0
 */
 
