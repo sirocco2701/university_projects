@@ -1,4 +1,4 @@
-Partlist exported from C:/Users/me/Documents/EAGLE/projects/Arduino_projects/LCR_meter/LCR_meter.sch at 24/11/2019 18:48
+
 
 Part Value                 Device                         Package                 Description                          POPULARITY PROD_ID    SF_SKU    SPICEMODEL SPICEPREFIX
 C2   2uF                   C5/2.5                         C5B2.5                  CAPACITOR                                                                                  
