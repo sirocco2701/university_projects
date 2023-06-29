@@ -176,9 +176,3 @@ The comparator will turn the sine wave into a square wave with a duty of 50%(see
 
 We can now solve the equation for inductance.
 
-Libraries
-------------------------------
-
-1. For the LCD , [HD44780_LCD_PCF8574 V1.3.0](https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574) , also written by Author. 
-
-2.  Simple Push button library included in code folder v1.0.0.
