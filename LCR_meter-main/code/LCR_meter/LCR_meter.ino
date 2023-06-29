@@ -6,12 +6,10 @@
   Full details at URL.
   Author: Gavin Lyons
   Platform: Arduino NANO version 3.0
-  URL: https://github.com/gavinlyonsrepo/LCR_meter
 */
 
 // Section :: Libraries
 
-// V.1.3.0 https://github.com/gavinlyonsrepo/HD44780_LCD_PCF8574 
 #include "HD44780_LCD_PCF8574.h" // For the LCD , Also written by Author 
 // V1.0.0  Push button library included in code folder
 #include "PushButtonLib.h"
