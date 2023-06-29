@@ -72,11 +72,6 @@ Every point in code that requires User calibration on Initial build is marked "U
 Example Output
 -----------------------------
 
-Example output for Capacitor test 2 on a 10uF capacitor to LCD and serial monitor.
-
-![cap lcd1](https://github.com/gavinlyonsrepo/LCR_meter/blob/main/documentation/images/LCRmeterlcd1.jpg)
-
-![cap lcd2](https://github.com/gavinlyonsrepo/LCR_meter/blob/main/documentation/images/LCD.jpg)
 
 ![ScreenShot cap serail](https://github.com/gavinlyonsrepo/LCR_meter/blob/main/documentation/images/LCRmeterserial.jpg)
 
