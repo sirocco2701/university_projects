@@ -8,8 +8,8 @@ Overview
 	* Inductance, Capacitance and Resistance meter.
 	* Arduino NANO version 3.0 based. 
 	* 4 resistor test ranges,  Resistor range is from 0 ohms to 2 Mohms. Auto-range.
-	* Inductance test, range is 80uH to 30,000uH.
-	* Capacitance three tests , range 18pf to 4F. 
+	* Inductance test.
+	* Capacitance three tests. 
 	* Push button input.
 	* Outputs data to serial monitor and a HD44780 LCD 16x02 I2C.
 
