@@ -43,8 +43,6 @@ L Meter
 
 ![ScreenShot seq 2](https://github.com/gavinlyonsrepo/LR_meter_arduino/blob/master/documentation/images/eq2.png)
 
-The comparator will turn the sine wave into a square wave with a duty of 50%(see fig 9 in 
-[datasheet](https://www.onsemi.com/pub/Collateral/LM393-D.PDF)),  The microcontroller measures the signal , This measurement can then be doubled to get the period and the inverse of the period is the frequency. Since the circuit is resonating, this frequency is the resonating frequency.
 
 
 
