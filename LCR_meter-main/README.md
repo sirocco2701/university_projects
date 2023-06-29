@@ -12,22 +12,6 @@ Example Output
 C Meter
 -----------------------------------------------
 
-Each Arduino capacitance test relies on a property of resistor capacitor (RC) circuits- the time constant. 
-The time constant of an RC circuit is defined as the time it takes for the voltage across the capacitor 
-to reach 63.2% of its voltage when fully charged:
-
-![ScreenShot cap time constant](https://github.com/gavinlyonsrepo/Cap_meter_arduino/blob/master/images/ctc.jpg)
-
-Larger capacitors take longer to charge, and therefore will create larger time constants. 
-The capacitance in an RC circuit is related to the time constant by the equation:
-
-![ScreenShot cap eq constant](https://github.com/gavinlyonsrepo/Cap_meter_arduino/blob/master/images/eq.jpg)
-
-The capacitance meter has an RC circuit with known resistor values and an unknown capacitor value. 
-The Arduino will measure the voltage at the capacitor and record the time it takes to reach 63.2% of it’s voltage when fully charged (the time constant). 
-Since the resistance value is already known, 
-we can use the formula above in a program that will calculate the unknown capacitance.
-
 **Test 1**
 
 Test 1: Range  1 uF to 4F. 
