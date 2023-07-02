@@ -1,14 +1,3 @@
-/*
-  Name : LCR_meter
-  Title : Arduino NANO(Version3) based (LCR)Inductance  Capacitance and resistence meter.
-  Description : An LCR meter is a type of electronic test equipment used to measure
-  the inductance (L), capacitance (C), and resistance (R) of an electronic component.
-  Full details at URL.
-  Author: harir naghshbandi
-  Platform: Arduino NANO version 3.0
-*/
-
-// Section :: Libraries
 
 #include "HD44780_LCD_PCF8574.h" // For the LCD , Also written by Author 
 // V1.0.0  Push button library included in code folder
