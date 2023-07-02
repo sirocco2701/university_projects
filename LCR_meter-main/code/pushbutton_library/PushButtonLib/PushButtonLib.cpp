@@ -1,12 +1,4 @@
-/*
- * File: PushButtonLib.cpp
- * Description: 
- * A Simple small library to read push buttons ,arduino eco system
- * Author: Gavin Lyons.
- * Created : March 2022
- * Description: See URL for full details.
- * URL: https://github.com/gavinlyonsrepo/PushButtonLib
- */
+
 
 #include "PushButtonLib.h"
 
